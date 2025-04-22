@@ -1,4 +1,4 @@
-const Product = require("../models/Product");
+const Product = require("../models/product");
 
 // Get all products with ratings
 exports.getAllProducts = async (req, res) => {
